@@ -48,7 +48,7 @@
     margin: 0; }
 
 .movie-card .movie-info .rating { 
-    background-color: #e50914; 
+    background-color: #1009e5; 
     color: #fff; 
     font-size: 1.2rem; 
     font-weight: bold; 
@@ -75,7 +75,7 @@
       }
 
 .filter button { 
-    background-color: #e50914; 
+    background-color: #1009e5; 
     color: #fff; 
     border: none; 
     border-radius: 5px; 
@@ -117,7 +117,7 @@
       }
       
       .new-movie-form button[type='submit'] {
-        background-color: #e50914;
+        background-color: #1009e5;
         color: #fff;
         border: none;
         border-radius: 5px;
@@ -133,7 +133,7 @@
       }
       
       .new-movie-form button[type='submit']:hover {
-        background-color: #b2070a;
+        background-color: #1009e5;
       }
 
       .center_position {
